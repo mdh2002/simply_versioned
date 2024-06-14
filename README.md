@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
