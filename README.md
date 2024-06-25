@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add HUB-SDK docs (#7775)
