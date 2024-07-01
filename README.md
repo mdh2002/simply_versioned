@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Expand Model method type hinting (#8279)
