@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Update Docs Home and Neural Magic pages (#7243)
