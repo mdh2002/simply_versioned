@@ -1,1 +1,1 @@
-Add PR Summary step to Ultralytics Actions (#7675)
+Python refactorings and simplifications (#7549)
