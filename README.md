@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix PIL show() and save() (#8202)
