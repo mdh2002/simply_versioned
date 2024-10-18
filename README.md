@@ -1,1 +1,1 @@
-fix non-coco val
+Fix TypeError in check_cfg() (#9245)
